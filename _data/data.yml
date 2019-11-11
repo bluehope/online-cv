@@ -48,9 +48,9 @@ career-profile:
     title: Research interest
     summary: |
       
-      Condensed mater physics
+      Condensed matter physics
         - First-principles calculations: DFT, DFT+U, DMFT, GW
-        - linear response theory MFT: [(magneitc force theory)](https://kaist-elst.github.io/Jx.jl/)
+        - linear response theory MFT: [(magnetic force theory)](https://kaist-elst.github.io/Jx.jl/)
 
       Machine learning 
         - Supervised and unsupervised learning for physics problems
@@ -236,7 +236,7 @@ publications:
         authors: Hongkee Yoon and Myung Joon Han.
         conference:   in Preparation. 
 
-      - title: Firstprinciples-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems. 
+      - title: First principles based calculation of branching ratio for 5d, 4d, and 3d transitionmetal systems. 
         authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han.
         conference: Under review PRB.    
 
