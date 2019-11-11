@@ -1,0 +1,91 @@
+{% assign presentations = site.data.data.presentations %}
+{% if presentations %}
+<section class="section presentations-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ presentations.title }}
+  </h2>
+
+  {% if presentations.intro %}
+  <div class="intro">
+      <p>{{ presentations.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  <h3 class="section-subtitle">
+    {{ presentations.awardedheader }}
+  </h3>
+
+  {% for presentation in presentations.awarded %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if presentation.link %}
+        <a href="{{ presentation.link }}" target="_blank">{{ presentation.title }}</a>
+        {% else %}
+        {{ presentation.title }}
+        {% endif %}
+      </span>
+
+      {% if presentation.tagline %}
+      - <span class="project-tagline">{{ presentation.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+
+
+  <h3 class="section-subtitle">
+    {{ presentations.invitedheader }}
+  </h3>
+  
+  
+  {% for presentation in presentations.invited %}
+  <div class="item">
+
+    <span class="project-title">
+      {% if presentation.link %}
+      <a href="{{ presentation.link }}" target="_blank">{{ presentation.title }}</a>
+      {% else %}
+      {{ presentation.title }}
+      {% endif %}
+    </span>
+
+    {% if presentation.tagline %}
+    - <span class="project-tagline">{{ presentation.tagline }}</span>
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+
+<h3 class="section-subtitle">
+  {{ presentations.recentpresentationheader }}
+</h3>
+
+
+{% for presentation in presentations.recentpresent %}
+<div class="item">
+
+  <span class="project-title">
+    {% if presentation.link %}
+    <a href="{{ presentation.link }}" target="_blank">{{ presentation.title }}</a>
+    {% else %}
+    {{ presentation.title }}
+    {% endif %}
+  </span>
+
+  {% if presentation.tagline %}
+  - <span class="project-tagline">{{ presentation.tagline }}</span>
+  {% endif %}
+
+</div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

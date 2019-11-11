@@ -10,6 +10,8 @@
     {{ publications.title }}
   </h2>
 
+  <a href="https://scholar.google.com/citations?user=dE6DtRkAAAAJ&hl=en">Google scholar link</a> 
+
   {% if publications.intro %}
   <div class="intro">
     {{ publications.intro | markdownify }}
@@ -23,6 +25,18 @@
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
+  
+  <h3 class="section-subtitle">
+    In preperation
+  </h3>
+  {% for publication in publications.paperspre %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
 
 </section><!--//section-->
 {% endif %}

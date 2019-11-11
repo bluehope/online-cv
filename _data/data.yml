@@ -3,62 +3,64 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Hongkee Yoon
+    tagline: First-principles physics and machine learning.
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: HongkeeYoon at kaist.ac.kr
+    #phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    #linkedin: alandoe
+    github: bluehope
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      #- idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Climbing
+      - item: First-principles
         link:
 
-      - item: Snowboarding
+      - item: Machine learning
         link:
 
-      - item: Cooking
-        link:
+      #- item: Cooking
+      #  link:
 
 career-profile:
-    title: Career Profile
+    title: Research interest
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      
+      Condensed mater physics
+        - First-principles calculations: DFT, DFT+U, DMFT, GW
+        - linear response theory MFT: [(magneitc force theory)](https://kaist-elst.github.io/Jx.jl/)
 
-      Second paragraph if required.
+      Machine learning 
+        - Supervised and unsupervised learning for physics problems
+
+      Optimization and Monte Carlo
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D in Department of Physics
+      university: KAIST, Deajon, Advisor Prof. MyungJoon Han.
+      time: 2011 – 2018.8
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +71,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: M.S in Department of Physics
+      university: KAIST, Deajon, Advisor Prof. C. S. Yoon.
+      time: 2008 – 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,97 +84,193 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+
+    - degree: BSc in Department of Physics (Major)/ School of Computing (Major)
+      university: KAIST, Deajon
+      time: 2003 - 2008
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
+presentations:
+    title: Presentation
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
+    awardedheader: Outstanding presentation awards
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    awarded:
+      - title: Orbital resolved exchange interactions combined with QSGW self energy.
+        tagline: KIAS, Poster (2017) 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution,
+        tagline: KPS2017 Fall, Contributed talk (2017) 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution, 
+        tagline: 10th BK21 Young Physicists Workshop, Poster (2018) 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Analytic continuation via “domain-knowledge free” machine learning, APCTP-KIAS:Quantum Materials Symposium 2018, Poster (2018) Analytic continuation via “domain-knowledge free” machine learning, 
+        tagline: KPS2018 Spring, Contributed talk (2018) 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 9 th Summer school on ‘Scientiﬁc Computing and Machine Learning’ 
+        tagline: KIAS-CAC (2018) 
 
+      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix.
+        tagline: KIAS, Poster (2019)
+
+    invitedheader: Invited talks
+    invited:
+      - title: Analytic continuation via “domain-knowledge free” machine learning,
+        link: #
+        tagline: KIAS-Comp.Sciences, Seoul (2018.6) 
+        
+      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution with OpenMX, 
+        tagline: ISSP-The University of Tokyo (2018.7.10) 
+
+      - title: Analytic continuation via domain-knowledge free machine learning, 
+        tagline: KPS 2018Fall. Focus sessions AI (artiﬁcial intelligence) techniques for condensed matter physics and material science II (2018.10) 
+
+      - title: Analytic continuation via “domain-knowledge free” machine learning, 
+        tagline: PCS-IBS, Deajon (2019.3) 
+
+      - title: First principles based methodologies for correlated materials magnetic force theory and analytic continuation, 
+        tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science,Deajon (2019.7)
+
+    recentpresentationheader: Recent presentations
+    recentpresent:
+      - title: aa
+        tagline: bb
+      - title: First-principles calculation of Heisenberg exchange coupling and branching ratio, International Workshop on Superconductivity and Related Functional Materials
+        tagline: (NIMS), Japan (2016.12), Poster 
+
+      - title: Analytic continuation via domain-knowledge free machine learning
+        tagline: Materials Research Society, Boston (2018.11), Poster 
+
+      - title: Analytic continuation via domain-knowledge free machine learning,
+        tagline: Kavli Institute for Theoretical Physics, (2019.02), Poster 
+
+      - title: Analytic continuation via domain-knowledge free machine learning, 
+        tagline: APS march meeting, Boston (2019.03), Contributed talk 
+
+      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix
+        tagline: Asian 22, Osaka (2019.10), Poster
+
+      - title: On-the-ﬂy machine-learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation, 
+        tagline: KPS, (2019.10), Contributed talk
+        
+  
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Reliability and applicability of magnetic-force linear response theory; Numerical parameters, predictability, and orbital resolution. 
+        authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, Seung Woo Jang, Taisuke Ozaki, and Myung Joon Han.
+        conference: Phys. Rev. B, 97(12):125132, March 2018.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Analytic continuation via domain knowledge free machine learning.
+        authors: Hongkee Yoon, Jae-Hoon Sim, and Myung Joon Han.
+        conference: Phys. Rev. B, 98(24):245101, December 2018.
+      
+      - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
+        authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
+        conference: Computer Physics Communications, 106927, September 2019.
+      
+      - title: Magnetic force theory combined with quasi-particle self-consistent GW method.
+        authors: Hongkee Yoon, Seung Woo Jang, Jae-Hoon Sim, Takao Kotani, and Myung Joon Han.
+        conference: Journal of Physics Condensed Matter, 31(40):405503, October 2019.
+      
+      - title: Observation of the thermal inﬂuenced quantum behaviour of water near a solid interface.
+        authors: Hongkee Yoon and Byoung Jip Yoon.
+        conference: Scientiﬁc Reports, 8(1):7016, May 2018
+      
+      - title: Calculating magnetic interactions in organic electrides.
+        authors: Taek Jung Kim, Hongkee Yoon, and Myung Joon Han.
+        conference: Phys. Rev. B, 97(21):214431, June 2018.
+      
+      - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>
+        authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
+        conference: arXiv:1909.05824 [cond-mat] submitted to PRL, * these authors are equally contributed.
+      
+      - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
+        authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
+        conference: Physical Review B, 94(11), September 2016.
+      
+      - title: On the origin and the manipulation of ferromagnetism in Fe3GeTe2; Defects and dopings.
+        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: arXiv:1904.04510 [cond-mat], April 2019.
+      
+      - title: Microscopic understanding of magnetic interactions in bilayer CrI3. Phys. Rev. Materials,
+        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: Phys. Rev. Materials, 3(3):031001, March 2019.
+      
+      - title: Charge density functional plus U theory of LaMnO3
+        authors: Seung Woo Jang, Siheon Ryee, Hongkee Yoon, and Myung Joon Han. 
+        conference: Phys. Rev. B, 98(12):125126, September 2018.
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
+        authors: Hyunggeun Lee, Min Yong Jeong, Jae-Hoon Sim, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: EPL, 125(4):47005, February 2019.
+
+      - title: Anomalous behavior of the quasi-one-dimensional quantum material Na2OsO4 at high pressure.
+        authors: R. Sereika, K. Yamaura, Y. Jia, S. Zhang, C. Jin, H. Yoon, M. Y. Jeong, M. J. Han, D. L. Brewe, S. M. Heald, S. Sinogeikin, Y. Ding, and H. k. Mao.
+        conference: Materials Today Physics, 8:18–24, March 2019.
+
+      - title: Modiﬁed Granato–Lucke Theory with Pinning Length Distribution in Solid 4He.
+        authors: Evan S. H. Kang, Hongkee Yoon, and Eunseong Kim.
+        conference: J. Phys. Soc. Jpn., 84(3):034602, February 2015.
+
+
+      - title: Parallel polymer tandem solar cells containing comb-shaped common electrodes.
+        authors: Hee Yoon Han, Hongkee Yoon, and Choon Sup Yoon.
+        conference:  Solar Energy Materials and Solar Cells, 132:56–66, January 2015.    
+
+
+
+
+    paperspre:
+      - title: On-the-ﬂy machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation. 
+        authors: Hongkee Yoon and Myung Joon Han.
+        conference:   in Preparation. 
+
+      - title: Firstprinciples-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems. 
+        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han.
+        conference: Under review PRB.    
+
+
+experiences:
+    - role: Postdoc researcher
+      time: 2018 - Present
+      company: KAIST
+      details: |
+        Working on First-principles method developments and combining the machine-learning to physics problems.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Joint Development Project (KAIST-Samsung)
+      time: 2015.05 – 2016.04
+      company: KAIST-Samsung
+      details: |
+        Method development for accelerating e-Beam Monte-Carlo simulation.
+
+
+    - role: Venture Research Programs for MS and PhD Students
+      time: 2017.03 - 2018.02
+      compnay: College of Natural Sciences
+      details: |
+        Hubbard U calculation through machine learning.
+
+    - role: Venture Research Programs for MS and PhD Students
+      time: 2016.03 - 2017.02
+      compnay: College of Natural Sciences
+      details: |
+        
 
 skills:
     title: Skills &amp; Proficiency
@@ -193,8 +291,8 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      #- name: Sketch & Photoshop
+      #  level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
