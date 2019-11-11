@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Hongkee Yoon
-#url: 'http://webjeda.com'
+url: 'https://bluehope.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 description: The Hongkee Yoon's homepage
 # Style will be applied only after restarting the build or serve. Just choose one of the options.

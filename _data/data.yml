@@ -143,8 +143,6 @@ presentations:
 
     recentpresentationheader: Recent presentations
     recentpresent:
-      - title: aa
-        tagline: bb
       - title: First-principles calculation of Heisenberg exchange coupling and branching ratio, International Workshop on Superconductivity and Related Functional Materials
         tagline: (NIMS), Japan (2016.12), Poster 
 
@@ -267,6 +265,12 @@ experiences:
       time: 2016.03 - 2017.02
       compnay: College of Natural Sciences
       details: |
+
+    - role: Undergrate visiting research programe (Cavendish-KAIST Collaboration)
+      time: 2016.03 - 2017.02
+      compnay: Cavendish
+      details: |
+        Inverse function design for compensates e-Beam scattering proximity effect with Monte Carlo.
 
 
 skills:
