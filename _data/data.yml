@@ -59,7 +59,7 @@ career-profile:
 
 education:
     - degree: Ph.D in Department of Physics
-      university: KAIST, Deajon, Advisor Prof. MyungJoon Han.
+      university: KAIST, Daejeon, Advisor Prof. Myung Joon Han.
       time: 2011 – 2018.8
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -72,7 +72,7 @@ education:
           - Bullet point
 
     - degree: M.S in Department of Physics
-      university: KAIST, Deajon, Advisor Prof. C. S. Yoon.
+      university: KAIST, Daejeon, Advisor Prof. C. S. Yoon.
       time: 2008 – 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -86,7 +86,7 @@ education:
 
 
     - degree: BSc in Department of Physics (Major)/ School of Computing (Major)
-      university: KAIST, Deajon
+      university: KAIST, Daejeon
       time: 2003 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -136,10 +136,10 @@ presentations:
         tagline: KPS 2018Fall. Focus sessions AI (artiﬁcial intelligence) techniques for condensed matter physics and material science II (2018.10) 
 
       - title: Analytic continuation via “domain-knowledge free” machine learning, 
-        tagline: PCS-IBS, Deajon (2019.3) 
+        tagline: PCS-IBS, Daejeon (2019.3) 
 
       - title: First principles based methodologies for correlated materials magnetic force theory and analytic continuation, 
-        tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science,Deajon (2019.7)
+        tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science, Daejeon (2019.7)
 
     recentpresentationheader: Recent presentations
     recentpresent:
@@ -266,7 +266,7 @@ experiences:
       company: College of Natural Sciences
       details: |
 
-    - role: Undergrate visiting research programe (Cavendish-KAIST Collaboration)
+    - role: Undergraduate visiting research program (Cavendish-KAIST Collaboration)
       time: 2016.03 - 2017.02
       company: Cavendish
       details: |
