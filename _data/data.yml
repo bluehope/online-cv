@@ -202,7 +202,7 @@ publications:
       
       - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>
         authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
-        conference: arXiv:1909.05824 [cond-mat] submitted to PRL, * these authors are equally contributed.
+        conference: arXiv:1909.05824 [cond-mat] PRB accepted, * these authors are equally contributed.
       
       - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
         authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
@@ -219,6 +219,11 @@ publications:
       - title: Charge density functional plus U theory of LaMnO3
         authors: Seung Woo Jang, Siheon Ryee, Hongkee Yoon, and Myung Joon Han. 
         conference: Phys. Rev. B, 98(12):125126, September 2018.
+        
+      - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
+        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
+        conference: JPCM accepted.
+
 
       - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
         authors: Hyunggeun Lee, Min Yong Jeong, Jae-Hoon Sim, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
