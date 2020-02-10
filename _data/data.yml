@@ -140,6 +140,14 @@ presentations:
 
       - title: First principles based methodologies for correlated materials magnetic force theory and analytic continuation, 
         tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science, Daejeon (2019.7)
+        
+      - titie: Machine learning for numerical condensed matter physics: analytic continuation and Monte Carlo sampling, 
+        tagline: POSTECH, Pohang (2019.12) 
+      - title: Machine learning for numerical condensed matter physics: analytic continuation and Monte Carlo sampling,
+        tagline: Kangwon National Univ., Chuncheon (2020.01.21)
+      - title: Method development for numerical condensed matter physics: Jx, the magnetic exchange interactions and 
+accelerated analytic continuation via machine learning, 
+        tagline: Kyungpook National University., Daegu (2020.01.30)
 
     recentpresentationheader: Recent presentations
     recentpresent:
