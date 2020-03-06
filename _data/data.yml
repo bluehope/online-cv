@@ -176,6 +176,20 @@ publications:
     intro: |
 
     papers:
+
+      - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
+        authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
+        conference: Computer Physics Communications, 247:106927, February 2020.
+      
+      - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>
+        authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
+        conference: Phys. Rev. B, 101:064513, February 2020., * these authors are equally contributed.
+  
+        - title: Magnetic force theory combined with quasi-particle self-consistent GW method.
+        authors: Hongkee Yoon, Seung Woo Jang, Jae-Hoon Sim, Takao Kotani, and Myung Joon Han.
+        conference: Journal of Physics Condensed Matter, 31(40):405503, October 2019.
+      
+  
       - title: Reliability and applicability of magnetic-force linear response theory; Numerical parameters, predictability, and orbital resolution. 
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, Seung Woo Jang, Taisuke Ozaki, and Myung Joon Han.
         conference: Phys. Rev. B, 97(12):125132, March 2018.
@@ -184,14 +198,7 @@ publications:
         authors: Hongkee Yoon, Jae-Hoon Sim, and Myung Joon Han.
         conference: Phys. Rev. B, 98(24):245101, December 2018.
       
-      - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
-        authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
-        conference: Computer Physics Communications, 106927, September 2019.
-      
-      - title: Magnetic force theory combined with quasi-particle self-consistent GW method.
-        authors: Hongkee Yoon, Seung Woo Jang, Jae-Hoon Sim, Takao Kotani, and Myung Joon Han.
-        conference: Journal of Physics Condensed Matter, 31(40):405503, October 2019.
-      
+
       - title: Observation of the thermal inﬂuenced quantum behaviour of water near a solid interface.
         authors: Hongkee Yoon and Byoung Jip Yoon.
         conference: Scientiﬁc Reports, 8(1):7016, May 2018
@@ -199,11 +206,7 @@ publications:
       - title: Calculating magnetic interactions in organic electrides.
         authors: Taek Jung Kim, Hongkee Yoon, and Myung Joon Han.
         conference: Phys. Rev. B, 97(21):214431, June 2018.
-      
-      - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>
-        authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
-        conference: arXiv:1909.05824 [cond-mat] PRB accepted, * these authors are equally contributed.
-      
+        
       - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
         authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
         conference: Physical Review B, 94(11), September 2016.
@@ -222,7 +225,7 @@ publications:
         
       - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
         authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
-        conference: JPCM accepted.
+        conference: JPCM accepted, February 2020.
 
 
       - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
