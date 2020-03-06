@@ -211,6 +211,35 @@ publications:
         authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
         conference: JPCM accepted, February 2020.
 
+      - title: On the origin and the manipulation of ferromagnetism in Fe3GeTe2; Defects and dopings.
+        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: arXiv:1904.04510 [cond-mat], April 2019 (under review).
+      
+      - title: Microscopic understanding of magnetic interactions in bilayer CrI3. Phys. Rev. Materials,
+        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: Phys. Rev. Materials, 3(3):031001, March 2019.
+      
+      - title: Charge density functional plus U theory of LaMnO3
+        authors: Seung Woo Jang, Siheon Ryee, Hongkee Yoon, and Myung Joon Han. 
+        conference: Phys. Rev. B, 98(12):125126, September 2018.
+        
+      - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
+        authors: Hyunggeun Lee, Min Yong Jeong, Jae-Hoon Sim, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
+        conference: EPL, 125(4):47005, February 2019.
+
+      - title: Anomalous behavior of the quasi-one-dimensional quantum material Na2OsO4 at high pressure.
+        authors: R. Sereika, K. Yamaura, Y. Jia, S. Zhang, C. Jin, H. Yoon, M. Y. Jeong, M. J. Han, D. L. Brewe, S. M. Heald, S. Sinogeikin, Y. Ding, and H. k. Mao.
+        conference: Materials Today Physics, 8:18–24, March 2019.
+
+      - title: Modiﬁed Granato–Lucke Theory with Pinning Length Distribution in Solid 4He.
+        authors: Evan S. H. Kang, Hongkee Yoon, and Eunseong Kim.
+        conference: J. Phys. Soc. Jpn., 84(3):034602, February 2015.
+
+      - title: Parallel polymer tandem solar cells containing comb-shaped common electrodes.
+        authors: Hee Yoon Han, Hongkee Yoon, and Choon Sup Yoon.
+        conference:  Solar Energy Materials and Solar Cells, 132:56–66, January 2015.  
+
+
     paperspre:
       - title: On-the-ﬂy machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation. 
         authors: Hongkee Yoon and Myung Joon Han.
