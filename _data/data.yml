@@ -50,12 +50,13 @@ career-profile:
       
       Condensed matter physics
         - First-principles calculations: DFT, DFT+U, DMFT, GW
-        - linear response theory MFT: [(magnetic force theory)](https://kaist-elst.github.io/Jx.jl/)
+        - linear response theory MFT (magnetic force theory): [(Jx: open source MFT software)](https://kaist-elst.github.io/Jx.jl/)
 
       Machine learning 
         - Supervised and unsupervised learning for physics problems
 
       Optimization and Monte Carlo
+        - On-the-fly ML+MC
 
 education:
     - degree: Ph.D in Department of Physics
@@ -170,6 +171,8 @@ presentations:
       - title: On-the-ﬂy machine-learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation, 
         tagline: KPS, (2019.10), Contributed talk
         
+      - title: On-the-fly machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation,
+        tagline: APS march meeting, Boston (2020.03), Contributed talk       
   
 publications:
     title: Publications
