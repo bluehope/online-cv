@@ -178,7 +178,7 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
+      - title: [Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.](https://doi.org/10.1016/j.cpc.2019.106927)
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
         conference: Computer Physics Communications, 247:106927, February 2020.  
 
