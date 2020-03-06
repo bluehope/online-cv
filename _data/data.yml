@@ -50,7 +50,7 @@ career-profile:
       
       Condensed matter physics
         - First-principles calculations: DFT, DFT+U, DMFT, GW
-        - linear response theory MFT (magnetic force theory): [Jx: open source MFT software](https://kaist-elst.github.io/Jx.jl/)
+        - linear response theory: MFT (magnetic force theory), [Jx the open source MFT software, https://kaist-elst.github.io/Jx.jl/](https://kaist-elst.github.io/Jx.jl/)
 
       Machine learning 
         - Supervised and unsupervised learning for physics problems
