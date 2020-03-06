@@ -178,6 +178,10 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: (invited review in Korean) New material design search using density functional theory and machine learning.
+        authors: Hongkee Yoon, Hyunggeun Lee, Yoon Gu Kang, and Myung Joon Han.
+        conference:   Electrical and Electronic Materials (submitted), 2020.
+
       - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
         conference:  Computer Physics Communications, 247:106927, February 2020.
