@@ -50,7 +50,7 @@ career-profile:
       
       Condensed matter physics
         - First-principles calculations: DFT, DFT+U, DMFT, GW
-        - linear response theory MFT (magnetic force theory): [(Jx: open source MFT software)](https://kaist-elst.github.io/Jx.jl/)
+        - linear response theory MFT (magnetic force theory): [Jx: open source MFT software](https://kaist-elst.github.io/Jx.jl/)
 
       Machine learning 
         - Supervised and unsupervised learning for physics problems
@@ -180,7 +180,7 @@ publications:
     papers:
       - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
-        conference:  Computer Physics Communications, 247:106927, February 2020.[a](https://doi.org/10.1016/j.cpc.2019.106927) 
+        conference:  Computer Physics Communications, 247:106927, February 2020.
 
       - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>.
         authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
