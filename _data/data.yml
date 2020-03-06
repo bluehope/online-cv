@@ -248,7 +248,7 @@ publications:
 
 experiences:
     - role: Postdoc researcher
-      time: 2018 - Present
+      time: 2018.09 - Present
       company: KAIST
       details: |
         Working on First-principles method developments and combining the machine-learning to physics problems.
@@ -273,7 +273,7 @@ experiences:
 
     - role: Undergraduate visiting research program (Cavendish-KAIST Collaboration)
       time: 2016.03 - 2017.02
-      company: Cavendish
+      company: Cavendish Laboratory, University of Cambridge
       details: |
         Inverse function design for compensates e-Beam scattering proximity effect with Monte Carlo.
 
