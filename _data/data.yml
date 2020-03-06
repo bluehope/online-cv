@@ -179,11 +179,12 @@ publications:
 
       - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
-        conference: Computer Physics Communications, 247:106927, February 2020.
-      
+        conference: Computer Physics Communications, 247 106927, February 2020.
+        
+        
       - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>
         authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
-        conference: Phys. Rev. B, 101:064513, February 2020, * these authors are equally contributed.
+        conference: Phys. Rev. B, 101 064513, February 2020, *these authors are equally contributed.
   
         - title: Magnetic force theory combined with quasi-particle self-consistent GW method.
         authors: Hongkee Yoon, Seung Woo Jang, Jae-Hoon Sim, Takao Kotani, and Myung Joon Han.
@@ -210,10 +211,15 @@ publications:
       - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
         authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
         conference: Physical Review B, 94(11), September 2016.
-      
+        
+      - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
+        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
+        conference: JPCM accepted, February 2020.
+
+        
       - title: On the origin and the manipulation of ferromagnetism in Fe3GeTe2; Defects and dopings.
         authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
-        conference: arXiv:1904.04510 [cond-mat], April 2019.
+        conference: arXiv:1904.04510 [cond-mat], April 2019 (under review).
       
       - title: Microscopic understanding of magnetic interactions in bilayer CrI3. Phys. Rev. Materials,
         authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
@@ -223,11 +229,6 @@ publications:
         authors: Seung Woo Jang, Siheon Ryee, Hongkee Yoon, and Myung Joon Han. 
         conference: Phys. Rev. B, 98(12):125126, September 2018.
         
-      - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
-        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
-        conference: JPCM accepted, February 2020.
-
-
       - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
         authors: Hyunggeun Lee, Min Yong Jeong, Jae-Hoon Sim, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
         conference: EPL, 125(4):47005, February 2019.
