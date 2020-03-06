@@ -174,73 +174,10 @@ presentations:
 publications:
     title: Publications
     intro: |
-    
     papers:
       - title: Jx An open-source software for calculating magnetic interactions based on magnetic force theory.
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
-        conference: Computer Physics Communications, 247 106927, February 2020.
-        
-
-  
-        - title: Magnetic force theory combined with quasi-particle self-consistent GW method.
-        authors: Hongkee Yoon, Seung Woo Jang, Jae-Hoon Sim, Takao Kotani, and Myung Joon Han.
-        conference: Journal of Physics Condensed Matter, 31(40):405503, October 2019.
-      
-  
-      - title: Reliability and applicability of magnetic-force linear response theory; Numerical parameters, predictability, and orbital resolution. 
-        authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, Seung Woo Jang, Taisuke Ozaki, and Myung Joon Han.
-        conference: Phys. Rev. B, 97(12):125132, March 2018.
-
-      - title: Analytic continuation via domain knowledge free machine learning.
-        authors: Hongkee Yoon, Jae-Hoon Sim, and Myung Joon Han.
-        conference: Phys. Rev. B, 98(24):245101, December 2018.
-      
-
-      - title: Observation of the thermal inﬂuenced quantum behaviour of water near a solid interface.
-        authors: Hongkee Yoon and Byoung Jip Yoon.
-        conference: Scientiﬁc Reports, 8(1):7016, May 2018
-      
-      - title: Calculating magnetic interactions in organic electrides.
-        authors: Taek Jung Kim, Hongkee Yoon, and Myung Joon Han.
-        conference: Phys. Rev. B, 97(21):214431, June 2018.
-        
-      - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
-        authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
-        conference: Physical Review B, 94(11), September 2016.
-        
-      - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
-        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
-        conference: JPCM accepted, February 2020.
-
-        
-      - title: On the origin and the manipulation of ferromagnetism in Fe3GeTe2; Defects and dopings.
-        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
-        conference: arXiv:1904.04510 [cond-mat], April 2019 (under review).
-      
-      - title: Microscopic understanding of magnetic interactions in bilayer CrI3. Phys. Rev. Materials,
-        authors: Seung Woo Jang, Min Yong Jeong, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
-        conference: Phys. Rev. Materials, 3(3):031001, March 2019.
-      
-      - title: Charge density functional plus U theory of LaMnO3
-        authors: Seung Woo Jang, Siheon Ryee, Hongkee Yoon, and Myung Joon Han. 
-        conference: Phys. Rev. B, 98(12):125126, September 2018.
-        
-      - title: Charge density functional plus U calculation of lacunar spinel GaM4Se8(M = Nb, Mo, Ta, and W).
-        authors: Hyunggeun Lee, Min Yong Jeong, Jae-Hoon Sim, Hongkee Yoon, Siheon Ryee, and Myung Joon Han.
-        conference: EPL, 125(4):47005, February 2019.
-
-      - title: Anomalous behavior of the quasi-one-dimensional quantum material Na2OsO4 at high pressure.
-        authors: R. Sereika, K. Yamaura, Y. Jia, S. Zhang, C. Jin, H. Yoon, M. Y. Jeong, M. J. Han, D. L. Brewe, S. M. Heald, S. Sinogeikin, Y. Ding, and H. k. Mao.
-        conference: Materials Today Physics, 8:18–24, March 2019.
-
-      - title: Modiﬁed Granato–Lucke Theory with Pinning Length Distribution in Solid 4He.
-        authors: Evan S. H. Kang, Hongkee Yoon, and Eunseong Kim.
-        conference: J. Phys. Soc. Jpn., 84(3):034602, February 2015.
-
-
-      - title: Parallel polymer tandem solar cells containing comb-shaped common electrodes.
-        authors: Hee Yoon Han, Hongkee Yoon, and Choon Sup Yoon.
-        conference:  Solar Energy Materials and Solar Cells, 132:56–66, January 2015.    
+        conference: Computer Physics Communications, 247 106927, February 2020.  
 
 
 
