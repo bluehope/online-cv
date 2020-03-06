@@ -177,7 +177,7 @@ publications:
     papers:
       - title: Jx; An open-source software for calculating magnetic interactions based on magnetic force theory.
         authors: Hongkee Yoon, Taek Jung Kim, Jae-Hoon Sim, and Myung Joon Han.
-        conference: Computer Physics Communications, 247 106927, February 2020.  
+        conference: Computer Physics Communications, 247:106927, February 2020.  
 
       - title: Induced Magnetic Two-dimensionality by Hole Doping in Superconducting Nd<sub>x</sub>Sr<sub>1-x</sub>NiO<sub>2</sub>.
         authors: Siheon Ryee* , Hongkee Yoon* , Taek Jung Kim*, Min Yong Jeong and Myung Joon Han.
@@ -195,7 +195,21 @@ publications:
         authors: Hongkee Yoon, Jae-Hoon Sim, and Myung Joon Han.
         conference: Phys. Rev. B, 98(24):245101, December 2018.
 
-
+      - title: Observation of the thermal inﬂuenced quantum behaviour of water near a solid interface.
+        authors: Hongkee Yoon and Byoung Jip Yoon.
+        conference: Scientiﬁc Reports, 8(1):7016, May 2018
+      
+      - title: Calculating magnetic interactions in organic electrides.
+        authors: Taek Jung Kim, Hongkee Yoon, and Myung Joon Han.
+        conference: Phys. Rev. B, 97(21):214431, June 2018.
+        
+      - title: Calculating branching ratio and spin-orbit coupling from ﬁrst principles; A formalism and its application to iridates. 
+        authors: Jae-Hoon Sim, Hongkee Yoon, Sang Hyeon Park, and Myung Joon Han. 
+        conference: Physical Review B, 94(11), September 2016.
+        
+      - title: First-principles-based calculation of branching ratio for 5d, 4d, and 3dtransitionmetal systems.
+        authors: Do Hoon Keim, Jae-Hoon Sim, Hongkee Yoon, and Myung Joon Han
+        conference: JPCM accepted, February 2020.
 
     paperspre:
       - title: On-the-ﬂy machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation. 
