@@ -98,9 +98,11 @@ education:
           - Bullet point
 
 presentations:
-    title: Presentation
+    title: Presentation & Awards
     intro: >
       
+     - title: Duk Joo Kim Young Scientist Award
+       tagline: Korean Physical Society, (2020)
     awardedheader: Outstanding presentation awards
 
     awarded:
@@ -148,6 +150,9 @@ presentations:
         
       - title: Method development for numerical condensed matter physics; Jx, the magnetic exchange interactions and accelerated analytic continuation via machine learning, 
         tagline: Kyungpook National University., Daegu (2020.01.30)
+       
+      - title: Machine learning and first principles-based methodology development for condensed mattersystems.
+        tagline: Korea Institute of Science and Technology, Seoul (2020.11.18 planned)
 
     recentpresentationheader: Recent presentations
     recentpresent:
