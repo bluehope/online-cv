@@ -101,28 +101,35 @@ presentations:
     title: Presentation & Awards
     intro: >
       
-     - title: Duk Joo Kim Young Scientist Award
-       tagline: Korean Physical Society, (2020)
+     
     awardedheader: Outstanding presentation awards
 
     awarded:
+      - title: Duk Joo Kim Young Scientist Award
+        tagline: Korean Physical Society, (2020)
+        
+      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix.
+        tagline: KIAS, Poster (2019)
+        
+      - title: Analytic continuation via “domain-knowledge free” machine learning, 
+        tagline: APCTP-KIAS:Quantum Materials Symposium 2018, Poster (2018) 
+        
+      - title : Analytic continuation via “domain-knowledge free” machine learning, 
+        tagline: KPS2018 Spring, Contributed talk (2018)   
+        
+       - title: 9 th Summer school on ‘Scientiﬁc Computing and Machine Learning’ 
+        tagline: KIAS-CAC (2018) 
+ 
+      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution, 
+        tagline: 10th BK21 Young Physicists Workshop, Poster (2018) 
+        
+      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution,
+        tagline: KPS2017 Fall, Contributed talk (2017)  
+        
       - title: Orbital resolved exchange interactions combined with QSGW self energy.
         tagline: KIAS, Poster (2017) 
 
-      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution,
-        tagline: KPS2017 Fall, Contributed talk (2017) 
 
-      - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution, 
-        tagline: 10th BK21 Young Physicists Workshop, Poster (2018) 
-
-      - title: Analytic continuation via “domain-knowledge free” machine learning, APCTP-KIAS:Quantum Materials Symposium 2018, Poster (2018) Analytic continuation via “domain-knowledge free” machine learning, 
-        tagline: KPS2018 Spring, Contributed talk (2018) 
-
-      - title: 9 th Summer school on ‘Scientiﬁc Computing and Machine Learning’ 
-        tagline: KIAS-CAC (2018) 
-
-      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix.
-        tagline: KIAS, Poster (2019)
 
     invitedheader: Invited talks
     invited:
