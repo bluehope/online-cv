@@ -46,10 +46,10 @@ sidebar:
 
 career-profile:
     title: Research interest
-    summary: |
+    summary: |    
     The method development and modeling to tackle scientific problems with numerical computing.
     This includes methods developments based on the first-principles physics, numerical optimization methods developments to understand the observed experimental phenomenon, empirical modeling for large-scale simulations, numerical simulation with machine learning, integrating machine learning for scientific modeling, and developing software for experimental orchestration.
- 
+    
       Machine learning, Optimization and Monte Carlo
         - Supervised and unsupervised learning for physics problems
         - On-the-fly ML+MC
