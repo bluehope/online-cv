@@ -35,10 +35,13 @@ sidebar:
       #  level: Professional
 
     interests:
-      - item: First-principles
+      - item: Numerical modeling and method development
         link:
 
-      - item: Machine learning
+      - item: Applying Machine learning for scientific problem
+        link:
+        
+      - item: First-principles calculation
         link:
 
       #- item: Cooking
