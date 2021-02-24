@@ -138,33 +138,35 @@ presentations:
 
     invitedheader: Invited talks
     invited:
+      - title: Computational method developments for material science (Machine learning, first-principles method development & more).
+        tagline: Korea Institute of Science and Technology, Seoul (2020.11.25)
+
+      - title: Method development for numerical condensed matter physics; Jx, the magnetic exchange interactions and accelerated analytic continuation via machine learning, 
+        tagline: Kyungpook National University., Daegu (2020.01.30)
+
+      - title: Machine learning for numerical condensed matter physics; analytic continuation and Monte Carlo sampling,
+        tagline: Kangwon National Univ., Chuncheon (2020.01.21)
+
+      - title: Machine learning for numerical condensed matter physics; analytic continuation and Monte Carlo sampling, 
+        tagline: POSTECH, Pohang (2019.12) 
+
+
+      - title: First principles based methodologies for correlated materials magnetic force theory and analytic continuation, 
+        tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science, Daejeon (2019.7)
+
+      - title: Analytic continuation via “domain-knowledge free” machine learning, 
+        tagline: PCS-IBS, Daejeon (2019.3) 
+        
+      - title: Analytic continuation via domain-knowledge free machine learning, 
+        tagline: KPS 2018Fall. Focus sessions AI (artiﬁcial intelligence) techniques for condensed matter physics and material science II (2018.10) 
+        
       - title: Analytic continuation via “domain-knowledge free” machine learning,
         link: #
         tagline: KIAS-Comp.Sciences, Seoul (2018.6) 
         
       - title: Reliability and applicability of magnetic force linear response theory; Numerical parameters, predictability, and orbital resolution with OpenMX, 
-        tagline: ISSP-The University of Tokyo (2018.7.10) 
-
-      - title: Analytic continuation via domain-knowledge free machine learning, 
-        tagline: KPS 2018Fall. Focus sessions AI (artiﬁcial intelligence) techniques for condensed matter physics and material science II (2018.10) 
-
-      - title: Analytic continuation via “domain-knowledge free” machine learning, 
-        tagline: PCS-IBS, Daejeon (2019.3) 
-
-      - title: First principles based methodologies for correlated materials magnetic force theory and analytic continuation, 
-        tagline: 5th Workshop on Supercomputing for Computational Bio/Nano/Materials Science, Daejeon (2019.7)
-        
-      - title: Machine learning for numerical condensed matter physics; analytic continuation and Monte Carlo sampling, 
-        tagline: POSTECH, Pohang (2019.12) 
-        
-      - title: Machine learning for numerical condensed matter physics; analytic continuation and Monte Carlo sampling,
-        tagline: Kangwon National Univ., Chuncheon (2020.01.21)
-        
-      - title: Method development for numerical condensed matter physics; Jx, the magnetic exchange interactions and accelerated analytic continuation via machine learning, 
-        tagline: Kyungpook National University., Daegu (2020.01.30)
-       
-      - title: Computational method developments for material science (Machine learning, first-principles method development & more).
-        tagline: Korea Institute of Science and Technology, Seoul (2020.11.25)
+        tagline: ISSP-The University of Tokyo (2018.7.10)  
+            
 
     recentpresentationheader: Recent presentations
     recentpresent:
