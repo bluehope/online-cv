@@ -167,26 +167,26 @@ presentations:
 
     recentpresentationheader: Recent presentations
     recentpresent:
-      - title: First-principles calculation of Heisenberg exchange coupling and branching ratio, International Workshop on Superconductivity and Related Functional Materials
-        tagline: (NIMS), Japan (2016.12), Poster 
-
-      - title: Analytic continuation via domain-knowledge free machine learning
-        tagline: Materials Research Society, Boston (2018.11), Poster 
-
-      - title: Analytic continuation via domain-knowledge free machine learning,
-        tagline: Kavli Institute for Theoretical Physics, (2019.02), Poster 
-
-      - title: Analytic continuation via domain-knowledge free machine learning, 
-        tagline: APS march meeting, Boston (2019.03), Contributed talk 
-
-      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix
-        tagline: Asian 22, Osaka (2019.10), Poster
+      - title: On-the-fly machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation,
+        tagline: APS march meeting, Boston (2020.03), Contributed talk       
 
       - title: On-the-ﬂy machine-learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation, 
         tagline: KPS, (2019.10), Contributed talk
         
-      - title: On-the-fly machine learning algorithm for accelerating Monte Carlo sampling; Application to the stochastic analytical continuation,
-        tagline: APS march meeting, Boston (2020.03), Contributed talk       
+      - title: Jx; An open-source software to calculate magnetic coupling constant and matrix
+        tagline: Asian 22, Osaka (2019.10), Poster
+
+      - title: Analytic continuation via domain-knowledge free machine learning, 
+        tagline: APS march meeting, Boston (2019.03), Contributed talk 
+
+      - title: Analytic continuation via domain-knowledge free machine learning,
+        tagline: Kavli Institute for Theoretical Physics, (2019.02), Poster 
+
+      - title: First-principles calculation of Heisenberg exchange coupling and branching ratio, International Workshop on Superconductivity and Related Functional Materials
+        tagline: (NIMS), Japan (2016.12), Poster 
+        
+      - title: Analytic continuation via domain-knowledge free machine learning
+        tagline: Materials Research Society, Boston (2018.11), Poster 
   
 publications:
     title: Publications
