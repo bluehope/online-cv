@@ -48,11 +48,12 @@ career-profile:
     title: Research interest
     summary: |
      The method development and modeling to tackle scientific problems with numerical computing.
-     This includes methods developments based on the first-principles physics, numerical optimization methods developments to understand the observed experimental phenomenon, empirical modeling for large-scale simulations, numerical simulation with machine learning, integrating machine learning for scientific modeling, and developing software for experimental orchestration.
+     This includes methods developments based on the _first-principles physics_, _numerical_ _optimization_ methods developments to understand the observed experimental phenomenon, empirical modeling for large-scale simulations, numerical simulation with machine learning, integrating machine learning for scientific modeling, and developing software for experimental orchestration.
      
-     Machine learning, Optimization and Monte Carlo
+     Machine learning (ML), Optimization and Monte Carlo (MC)
         - Supervised and unsupervised learning for physics problems
-        - On-the-fly ML+MC
+        - On-the-fly ML+MC for accelaing MC sampling
+        - Interpretable ML-based interatomic potential 
         
      Condensed matter physics
         - First-principles calculations; DFT, DFT+U, DMFT, GW
@@ -266,9 +267,9 @@ publications:
 
 
 experiences:
-    - role: Postdoc researcher
+    - role: Postdoc researcher 
       time: 2018.09 - Present
-      company: KAIST
+      company: KAIST (Brain Korea (BK) 21 Fellowship)
       details: |
          First-principles method developments and develop machine learning algorithms for physics.
 
