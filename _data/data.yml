@@ -48,7 +48,6 @@ career-profile:
     title: Research interest
     summary: |
      The method development and modeling to tackle scientific problems with numerical computing.
-     This includes methods developments based on the _first-principles physics_, _numerical_ _optimization_ methods developments to understand the observed experimental phenomenon, empirical modeling for large-scale simulations, numerical simulation with machine learning, integrating machine learning for scientific modeling, and developing software for experimental orchestration.
      
      Machine learning (ML), Optimization and Monte Carlo (MC)
         - Supervised and unsupervised learning for physics problems
@@ -58,6 +57,9 @@ career-profile:
      Condensed matter physics
         - First-principles calculations; DFT, DFT+U, DMFT, GW
         - linear response theory MFT; (magnetic force theory), [Jx the open source MFT software, https://kaist-elst.github.io/Jx.jl/](https://kaist-elst.github.io/Jx.jl/)
+
+     This includes methods developments based on the _first-principles physics_, _numerical optimization methods developments_ to understand the observed experimental phenomenon, 
+     _empirical modeling_ for large-scale simulations, _numerical simulation with machine learning_, _integrating machine learning for scientific modeling_, and _developing software for experimental orchestration_.
 
 
 education:
