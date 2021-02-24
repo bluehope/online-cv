@@ -58,7 +58,7 @@ career-profile:
         - First-principles calculations; DFT, DFT+U, DMFT, GW
         - linear response theory MFT; (magnetic force theory), [Jx the open source MFT software, https://kaist-elst.github.io/Jx.jl/](https://kaist-elst.github.io/Jx.jl/)
 
-     This includes methods developments based on the _first-principles physics_, _numerical optimization methods developments_ to understand the observed experimental phenomenon, 
+     Research scopes include methods developments based on the _first-principles physics_, _numerical optimization methods developments_ to understand the observed experimental phenomenon, 
      _empirical modeling_ for large-scale simulations, _numerical simulation with machine learning_, _integrating machine learning for scientific modeling_, and _developing software for experimental orchestration_.
 
 
